@@ -39,14 +39,14 @@ Skills: Flutter/ Dart / JS / HTML / CSS/ Bootstrap/ PHP/ Laravel
 <a href="https://www.youtube.com/c/masumtechzone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="masumtechzone" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=masumul&show_icons=true&locale=en&layout=compact" alt="masumul" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=masumul&show_icons=true&locale=en" alt="masumul" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=masumul&" alt="masumul" /></p>
-
 
 ### Profile Visitors 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=masumul.visitor-badge&left_color=blue&right_color=yellow)
 <br />
 [![masumul github activity graph](https://activity-graph.herokuapp.com/graph?username=masumul&bg_color=ffffff&color=777777&line=ff5200&point=1adbce&area=true&hide_border=true)](https://github.com/masumul/github-readme-activity-graph)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=masumul&show_icons=true&locale=en&layout=compact" alt="masumul" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=masumul&show_icons=true&locale=en" alt="masumul" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=masumul&" alt="masumul" /></p>
