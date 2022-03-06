@@ -42,7 +42,7 @@ Skills: Flutter/ Dart / JS / HTML / CSS/ Bootstrap/ PHP/ Laravel
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=masumul.visitor-badge&left_color=blue&right_color=yellow)
 <br />
 
-[![Masumul's github activity graph](https://activity-graph.herokuapp.com/graph?username=masumul&bg_color=ffffff&color=777777&line=ff5200&point=1adbce&area=true&hide_border=true)](https://github.com/masumul/github-readme-activity-graph)
+[![masumul's github activity graph](https://activity-graph.herokuapp.com/graph?username=masumul&bg_color=ffffff&color=777777&line=ff5200&point=1adbce&area=true&hide_border=true)](https://github.com/masumul/github-readme-activity-graph)
 
 <p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=masumul&show_icons=true&locale=en&layout=compact" alt="Masumul Haque" /></p>
 
