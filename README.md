@@ -33,9 +33,9 @@ Skills: Flutter/ Dart / JS / HTML / CSS/ Bootstrap/ PHP/ Laravel
 
 <h3 align="left">Social Link:</h3>
 <p align="left">
-<a href="https://twitter.com/mdmasumulhaque1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mdmasumulhaque1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/masumul-haque" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="masumul-haque" height="30" width="40" /></a>
 <a href="https://fb.com/designermasumulhaque" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="designermasumulhaque" height="30" width="40" /></a>
+ <a href="https://twitter.com/mdmasumulhaque1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mdmasumulhaque1" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/masumtechzone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="masumtechzone" height="30" width="40" /></a>
 </p>
 
