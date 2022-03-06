@@ -29,8 +29,6 @@ Skills: Flutter/ Dart / JS / HTML / CSS/ Bootstrap/ PHP/ Laravel
   <h4>Phone- 01710-334870</h4>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=masumul&label=Profile%20views&color=0e75b6&style=flat" alt="masumul" /> </p>
-
 <h3 align="left">Social Link:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/masumul-haque" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="masumul-haque" height="30" width="40" /></a>
@@ -47,7 +45,6 @@ Skills: Flutter/ Dart / JS / HTML / CSS/ Bootstrap/ PHP/ Laravel
 
 
 ### Profile Visitors 
-![visitor badge](https://komarev.com/ghpvc/?username=masumul&label=Profile%20views&color=0e75b6&style=flat" alt="masumul)
-<br />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=masumul&label=Profile%20views&color=0e75b6&style=flat" alt="masumul" /> </p>
 [![masumul github activity graph](https://activity-graph.herokuapp.com/graph?username=masumul&bg_color=ffffff&color=777777&line=ff5200&point=1adbce&area=true&hide_border=true)](https://github.com/masumul/github-readme-activity-graph)
 
