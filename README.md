@@ -43,8 +43,15 @@ Skills: Flutter/ Dart / JS / HTML / CSS/ Bootstrap/ PHP/ Laravel
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=masumul&" alt="masumul" /></p>
 
-
 ### Profile Visitors 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=masumul&label=Profile%20views&color=0e75b6&style=flat" alt="masumul" /> </p>
-[![masumul github activity graph](https://activity-graph.herokuapp.com/graph?username=masumul&bg_color=ffffff&color=777777&line=ff5200&point=1adbce&area=true&hide_border=true)](https://github.com/masumul/github-readme-activity-graph)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=masumul.visitor-badge&left_color=blue&right_color=yellow)
+<br />
+
+[![masumul's github activity graph](https://activity-graph.herokuapp.com/graph?username=masumul&bg_color=ffffff&color=777777&line=ff5200&point=1adbce&area=true&hide_border=true)](https://github.com/masumul/github-readme-activity-graph)
+
+<p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=masumul&show_icons=true&locale=en&layout=compact" alt="Masumul Haque" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=NoobMahbub&show_icons=true&locale=en" alt="Masumul Haque" /></p>
+
+
 
