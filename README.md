@@ -51,7 +51,7 @@ Skills: Flutter/ Dart / JS / HTML / CSS/ Bootstrap/ PHP/ Laravel
 
 <p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=masumul&show_icons=true&locale=en&layout=compact" alt="Masumul Haque" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=NoobMahbub&show_icons=true&locale=en" alt="Masumul Haque" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=masumul&show_icons=true&locale=en" alt="Masumul Haque" /></p>
 
 
 
